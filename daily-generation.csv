@@ -1,4 +1,4 @@
-id,datetime,generation
+id,type,generation
 0,Hidro,23 452.39
 1,Gas Natural,3 921.50
 2,Solares,630.55
@@ -6,7 +6,7 @@ id,datetime,generation
 4,Bunker,351.66
 5,Biogas,91.79
 6,Diesel,0.00
-7,Autogeneradores Térmicos,0.00
+7,Autogeneradores TÃ©rmicos,0.00
 8,Autogeneradores Solares,0.00
-9,Eólicos,0.00
-10,Carbón,0.00
+9,EÃ³licos,0.00
+10,CarbÃ³n,0.00
